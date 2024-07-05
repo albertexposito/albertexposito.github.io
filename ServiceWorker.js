@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-test-cupra-copa-america-features-0.1.0";
 const contentToCache = [
-    "Build/albertexposito.github.io.loader.js",
-    "Build/albertexposito.github.io.framework.js",
-    "Build/albertexposito.github.io.data",
-    "Build/albertexposito.github.io.wasm",
+    "Build/983e9336127fac358886e75e542b94a3.loader.js",
+    "Build/4d325f9687ad533eb3e157a5e17c669b.framework.js",
+    "Build/e2165ccc4019de312cdf5d32dcf48cda.data",
+    "Build/37e49c48e063601a4714272c13b441ec.wasm",
     "TemplateData/style.css"
 
 ];
