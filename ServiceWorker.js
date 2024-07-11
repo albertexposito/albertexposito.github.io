@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-test-cupra-copa-america-features-0.1.0";
 const contentToCache = [
-    "Build/695aee5faec1918444e23ef14243d7ce.loader.js",
+    "Build/529af6e1e1a456f8b3cfb99073b4ed72.loader.js",
     "Build/3792829eab79ed0fe50987ebed0fec30.framework.js",
-    "Build/32631fb10c29ef80fc0127fd2296f1e0.data",
-    "Build/bbf39d8c1a6d2ca8979b60532bf85720.wasm",
+    "Build/b9e0d92c8f0310a1a0b93063d278505d.data",
+    "Build/67766b226b9e9dcab203fb8f0fd22271.wasm",
     "TemplateData/style.css"
 
 ];
