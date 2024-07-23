@@ -2,7 +2,7 @@ const cacheName = "CUPRA-CUPRA America's Cup-0.1";
 const contentToCache = [
     "Build/albertexposito.github.io.loader.js",
     "Build/d34c900f622537303866cad825ff178e.js",
-    "Build/76fa2eed3daf84c88a93473f583a24dd.data",
+    "Build/aa1bc1361f05953670aaf2dcdfef3f78.data",
     "Build/69f7bb516287e8a548b7ddfdc1614575.wasm",
     "TemplateData/style.css"
 
