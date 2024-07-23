@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-test-cupra-copa-america-features-0.1.0";
+const cacheName = "CUPRA-CUPRA America's Cup-0.1";
 const contentToCache = [
-    "Build/529af6e1e1a456f8b3cfb99073b4ed72.loader.js",
-    "Build/3792829eab79ed0fe50987ebed0fec30.framework.js",
-    "Build/b9e0d92c8f0310a1a0b93063d278505d.data",
-    "Build/67766b226b9e9dcab203fb8f0fd22271.wasm",
+    "Build/albertexposito.github.io.loader.js",
+    "Build/d34c900f622537303866cad825ff178e.js",
+    "Build/76fa2eed3daf84c88a93473f583a24dd.data",
+    "Build/69f7bb516287e8a548b7ddfdc1614575.wasm",
     "TemplateData/style.css"
 
 ];
@@ -25,9 +25,9 @@ self.addEventListener('fetch', function (e) {
       if (response) { return response; }
 
       response = await fetch(e.request);
-      const cache = await caches.open(cacheName);
-      console.log(`[Service Worker] Caching new resource: ${e.request.url}`);
-      cache.put(e.request, response.clone());
+//      const cache = await caches.open(cacheName);
+//      console.log(`[Service Worker] Caching new resource: ${e.request.url}`);
+//      cache.put(e.request, response.clone());
       return response;
     })());
 });
